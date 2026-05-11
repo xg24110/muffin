@@ -1,5 +1,16 @@
+body{
+    background: #FCD5E2;
+}
+
+h1{
+    font-family: Helvetica, sans-serif;
+    font-weight: 1000;
+    color: #920839;
+}
+
+
 .container{
-    width: 45vw;
+    width: 35vw;
     height: auto;
     display: grid;
     grid-template-columns: repeat(11, 1fr);

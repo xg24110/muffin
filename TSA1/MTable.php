@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="MTable.css">
 </head>
 <body>
-    <h1><center>Multiplication Table</center></h1>
+    <h1><center>🎀 MULTIPLICATION TABLE 🎀</center></h1>
     <div class = "container">
         <?php
             for ($i = 0; $i <= 10; $i++) {
