@@ -1,0 +1,24 @@
+.container{
+    width: 45vw;
+    height: auto;
+    display: grid;
+    grid-template-columns: repeat(11, 1fr);
+    border: 5px solid #B4164E;
+    margin-left: auto;
+    margin-right: auto;
+    aspect-ratio: 1/1;
+}
+
+.cell{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.light{
+    background-color: #F5ADC6;
+}
+
+.dark{
+    background-color: #E25889;
+}
