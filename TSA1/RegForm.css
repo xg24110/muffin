@@ -1,0 +1,35 @@
+body{
+    background-color: #FFF3EE;
+    font-family: Helvetica, sans-serif;
+    color: #090300;
+}
+
+
+h1{
+    font-family: Arial, sans-serif;
+    font-weight: 1000;
+}
+
+h2{
+    font-family: Arial, sans-serif;
+    font-weight: 1000;
+}
+
+.container{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #B7846D;
+    padding: 20px;
+    background-color: #FCE2D6;
+}
+
+.output{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #B7846D;
+    padding: 20px;
+    background-color: #FCE2D6;
+    margin-top: 20px;
+}
